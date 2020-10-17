@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="VB" Debug="true" Service="WcfCulcApplication.MathService" CodeBehind="MathService.svc.vb" %>
